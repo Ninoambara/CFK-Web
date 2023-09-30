@@ -1,0 +1,11 @@
+export const CATEGORY_FETCH_SUCCESS = "categories/fetchSuccess";
+export const CATEGORY_FETCH_REQUEST = "categories/fetchRequest";
+export const CATEGORY_FETCH_FAILED = "categories/fetchFailed";
+export const CATEGORY_FETCH_BYID_SUCCESS = "categories/fetchByIdSuccess"
+export const ITEM_FETCH_SUCCESS = "items/fetchSuccess";
+export const ITEM_FETCH_REQUEST = "items/fetchRequest";
+export const ITEM_FETCH_FAILED = "items/fetchFailed"
+export const ITEM_FETCH_BYID_SUCCESS = "items/fetchByIdSuccess"
+export const INGREDIENTS_FETCH_REQUEST = "ingredients/fetchRequest"
+export const INGREDIENTS_FETCH_SUCCESS = "ingredients/fetchSuccess"
+export const INGREDIENTS_FETCH_FAILED = "ingredients/fetchFailed"

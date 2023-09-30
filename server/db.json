@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "name": "Wings Bucket",
+      "description": "paket keluarga ni boss",
+      "price": "99000",
+      "imgUrl": "https://files.kfcku.com/uploads/media/food-menu/spesial/thumbnail/kfc-web_wingsbucket_t.png",
+      "authorId": 1,
+      "categoryId": 1,
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "Alacarte",
+      "createdAt": "2023-09-05T15:26:48.873Z",
+      "updatedAt": "2023-09-05T15:26:48.873Z",
+      "id": 1
+    },
+    {
+      "name": "Dian",
+      "createdAt": "2023-09-06T13:29:16.479Z",
+      "updatedAt": "2023-09-06T13:29:16.479Z",
+      "id": 2
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "name": "Ayam"
+    }
+  ],
+  "users": [
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "id": 2
+    },
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "id": 3
+    },
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "id": 4
+    },
+    {
+      "email": "akunbaru@example.com",
+      "password": "akunbaru123",
+      "username": "barunih",
+      "phoneNumber": "085838007623",
+      "address": "jalan",
+      "id": 5
+    },
+    {
+      "address": "jalan",
+      "id": 6
+    },
+    {
+      "address": "jalnaj tukad baliann",
+      "id": 7
+    },
+    {
+      "username": "barunih",
+      "password": "barunihda",
+      "email": "sad@gmail.c",
+      "phoneNumber": "0881037236608",
+      "address": "jalnaj tukad baliann",
+      "id": 8
+    },
+    {
+      "email": "user2@example.com",
+      "password": "password2asd",
+      "id": 9
+    },
+    {
+      "email": "baru@mail.com",
+      "password": "barunih",
+      "id": 10
+    },
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "id": 11
+    },
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "id": 12
+    },
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "id": 13
+    },
+    {
+      "username": "user2@example.com",
+      "password": "password2",
+      "email": "asda@mail.com",
+      "phoneNumber": "085838007623",
+      "address": "jalan",
+      "id": 14
+    }
+  ]
+}

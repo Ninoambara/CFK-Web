@@ -1,0 +1,30 @@
+body {
+  background-image: url("https://i.ibb.co/170b77r/7u5-B9-Layu-FLfe-P9n-F-VSq-transformed.jpg"); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+  color: rgb(0, 0, 0);
+}
+
+.blur-background {
+  backdrop-filter: blur(8px); 
+  border-radius: 10px; 
+  padding: 20px; 
+  background: rgba(255, 255, 255, 0.8); 
+}
+
+.blur-background-detail {
+  backdrop-filter: blur(10px); 
+  border-radius: 10px; 
+  padding: 20px; 
+  background: rgba(255, 255, 255, 0.8); 
+}
+
+
+.hover-fade-in {
+  transition: transform 0.3s ease-in-out;
+}
+
+.hover-fade-in:hover {
+  transform: scale(1.1);
+}
